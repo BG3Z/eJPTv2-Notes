@@ -105,7 +105,7 @@ Organized by topics: Linux, Windows, Recon, Web, and CTFs.
 
 ---
 
-## > CTFs & Practice 🏆
+## > Exam-like CTFs & Practice 🏆
 
 - [HackTheBox | Easy & Very Easy Machines](https://www.hackthebox.com/machines)  
 - [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)  
